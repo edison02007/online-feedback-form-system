@@ -11,7 +11,8 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "vercel-build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": ["react-app"]
